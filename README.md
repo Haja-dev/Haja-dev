@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Haja
-- 👀 I’m a front-end developer.
+- 👀 I’m a developer.
 
 Here are some small projects:
 - [Sum algorithm](https://haja-dev.github.io/algo-somme/)
